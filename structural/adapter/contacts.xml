@@ -1,0 +1,8 @@
+<contacts>
+    <contact>
+        <full_name>Hugh Jazz</full_name>
+        <email>hughjazz@hotmail.com</email>
+        <phone_number>1234456</phone_number>
+        <is_friend>False</is_friend>
+    </contact>
+</contacts>

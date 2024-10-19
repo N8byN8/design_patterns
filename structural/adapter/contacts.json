@@ -1,0 +1,10 @@
+{
+    "contacts": [
+        {
+            "full_name": "Micah K",
+            "email": "micahk@hotmail.com",
+            "phone_number": "523-1234",
+            "is_friend": true
+        }
+    ]
+}
